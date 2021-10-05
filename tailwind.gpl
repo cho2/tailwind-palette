@@ -1,8 +1,8 @@
 GIMP Palette
 Name: tailwind colors
 #
-127  29  29	    Red 900
-153  27  27	    Red 800
+127  29  29	  Red 900
+153  27  27	  Red 800
 185  28  28 	Red 700
 220  38  38 	Red 600
 239  68  68 	Red 500
@@ -12,48 +12,48 @@ Name: tailwind colors
 254  226 226	Red 100
 254  242 242	Red 50
 124  45  18 	Orange 900
-154  52  18	    Orange 800
+154  52  18	  Orange 800
 194  65  12 	Orange 700
-234  88  12	    Orange 600
-249  115 22	    Orange 500
+234  88  12	  Orange 600
+249  115 22	  Orange 500
 251  146 60 	Orange 400
 253  186 116	Orange 300
 254  215 170	Orange 200
 255  237 213	Orange 100
 255  247 237	Orange 50
-120  53  15	    Amber 900
+120  53  15	  Amber 900
 146  64  14 	Amber 800
 180  83  9		Amber 700
-217  119 6	     Amber 600
-245  158 11	    Amber 500
-251  191 36	    Amber 400
-252  211 77	    Amber 300
+217  119 6	  Amber 600
+245  158 11	  Amber 500
+251  191 36	  Amber 400
+252  211 77	  Amber 300
 253  230 138	Amber 200
 254  243 199	Amber 100
 255  251 235	Amber 50
-113  63  18	    Yellow 900
+113  63  18	  Yellow 900
 133  77  14 	Yellow 800
 161  98  7		Yellow 700
-202  138 4 	    Yellow 600
-234  179 8 	    Yellow 500
-250  204 21	    Yellow 400
-253  224 71	    Yellow 300
+202  138 4 	  Yellow 600
+234  179 8 	  Yellow 500
+250  204 21	  Yellow 400
+253  224 71	  Yellow 300
 254  240 138	Yellow 200
 254  249 195	Yellow 100
 254  252 232	Yellow 50
 54   83  20		Lime 900
 63   98  18		Lime 800
-77   124 15	    Lime 700
+77   124 15	  Lime 700
 101  163 13 	Lime 600
-132  204 22	    Lime 500
-163  230 53	    Lime 400
+132  204 22	  Lime 500
+163  230 53	  Lime 400
 190  242 100	Lime 300
 217  249 157	Lime 200
 236  252 203	Lime 100
 247  254 231	Lime 50
 20   83  45		Green 900
 22   101 52 	Green 800
-21   128 61	    Green 700
+21   128 61	  Green 700
 22   163 74 	Green 600
 34   197 94 	Green 500
 74   222 128	Green 400
@@ -91,7 +91,7 @@ Name: tailwind colors
 165  243 252	Cyan 200
 207  250 254	Cyan 100
 236  254 255	Cyan 50
-12   74  110	 Light Blue 900
+12   74  110	Light Blue 900
 7    89  133	Light Blue 800
 3    105 161 	Light Blue 700
 2    132 199 	Light Blue 600
@@ -111,7 +111,7 @@ Name: tailwind colors
 191  219 254	Blue 200
 219  234 254	Blue 100
 239  246 255	Blue 50
-49   46  129	 Indigo 900
+49   46  129	Indigo 900
 55   48  163 	Indigo 800
 67   56  202 	Indigo 700
 79   70  229	Indigo 600
@@ -152,8 +152,8 @@ Name: tailwind colors
 250  232 255	Fuchsia 100
 253  244 255	Fuchsia 50
 131  24  67 	Pink 900
-157  23  77	    Pink 800
-190  24  93	    Pink 700
+157  23  77	  Pink 800
+190  24  93	  Pink 700
 219  39  119	Pink 600
 236  72  153	Pink 500
 244  114 182	Pink 400
@@ -165,7 +165,7 @@ Name: tailwind colors
 159  18  57 	Rose 800
 190  18  60 	Rose 700
 225  29  72 	Rose 600
-244  63  94	    Rose 500
+244  63  94	  Rose 500
 251  113 133	Rose 400
 253  164 175	Rose 300
 254  205 211	Rose 200
